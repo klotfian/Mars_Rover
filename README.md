@@ -7,4 +7,4 @@ The code design is seperated into two java classes. The Main class which will st
 The main class will take in a text file through the use of the console and parse each line. Afterwards, the main class will create Rover objects based on the instructions in the text file. Each Rover object will be put into a list of Rover ojbects and will have the run method invoked on each one. It is the Rover object that will do their own work within their run method and output to the console once they are finished executing their assigned instructions. 
 
 # How to Run
-To execute the code, simply run by way of the main method and input the text file name i.e. "input.txt" as well as its directory path and press enter. The output will be displayed through the console.
+To execute the code, simply run the main method and input the text file name i.e. "input.txt" as well as its directory path and press enter. The output will be displayed through the console.
